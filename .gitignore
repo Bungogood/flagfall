@@ -1,8 +1,7 @@
+# OS/editor tmps
 .vscode/
-
 .DS_Store
 
-
-# Added by cargo
-
+# Rust
 /target
+/Cargo.lock

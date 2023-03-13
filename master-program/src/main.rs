@@ -114,6 +114,8 @@ fn main() {
 
         let steps = move_to_steps(mv, pos.turn(), f64::from(captured_whites), f64::from(captured_blacks));
         info!("produced steps: {steps:?}", steps = steps);
+        
+        // [TODO] STEP 10: SEND TO ARDUINO?
     }
 
     //The input of SAN is gonna access through this method:

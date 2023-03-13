@@ -11,4 +11,5 @@ edition = "2021"
 members = [
     "master-program",
     "opponent-wrapper",
+    "serial-communicator"
 ]
